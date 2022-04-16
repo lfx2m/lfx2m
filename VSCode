@@ -1,0 +1,35 @@
+{
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    // Controls if quick suggestions should show up while typing
+    "editor.quickSuggestions": { "other": false, "comments": false, "strings": false },
+    // Controls if suggestions should be accepted with "Enter" - in addition to "Tab". Helps to avoid ambiguity between inserting new lines and accepting suggestions.
+    "editor.acceptSuggestionOnEnter": "off",
+    // Controls the delay in ms after which quick suggestions will show up.
+    "editor.quickSuggestionsDelay": 100000,
+    // Enable word based suggestions
+    "editor.wordBasedSuggestions": false,
+    "wallpaper-setting.filePath": "c:\Users\lfx2m\Music\Wallpapers\wp2034618-cgi-wallpapers.jpg",
+    "workbench.colorCustomizations": {
+        "statusBar.background" : "#1a1a1a",
+        "statusBar.noFolderBackground" : "#108a38",
+        "statusBar.debuggingBackground": "#263238"
+    },
+    "zenMode.centerLayout": false,
+    "breadcrumbs.enabled": false,
+    "workbench.editor.showTabs": false,
+    "zenMode.hideTabs": true,
+    "window.menuBarVisibility": "compact",
+    "workbench.statusBar.visible": false,
+    "search.showLineNumbers": true,
+    "zenMode.hideActivityBar": true,
+    "window.titleBarStyle": "custom",
+    "window.restoreFullscreen": true,
+    "powermode.enabled": true
+}
+
+//angelmaneuver.wallpaper-setting
+//hoovercj.vscode-power-mode
+//ms-vscode.powershell
